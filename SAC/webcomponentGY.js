@@ -4,7 +4,7 @@
         <h1>Hello World GY</h1>
     `;
 
-    customElements.define('tagHelloworldGY', class HelloWorld1 extends HTMLElement {
+    customElements.define('com-sap-sample-helloworldGY', class HelloWorld1 extends HTMLElement {
 
 
 		constructor() {
