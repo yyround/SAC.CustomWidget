@@ -1,7 +1,7 @@
 (function()  {
     let tmpl = document.createElement('template');
     tmpl.innerHTML = `
-        <h1>Hello GY</h1>
+        <h1>Hello GY bbb</h1>
     `;
 
     customElements.define('custom-buttongy', class HelloWorld1 extends HTMLElement {
