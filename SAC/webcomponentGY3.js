@@ -3,7 +3,7 @@
     tmpl.innerHTML = `        
     `;
 
-    customElements.define('custom-buttongy', class HelloWorld1 extends HTMLElement {
+    customElements.define('custom-buttongy', class HelloWorld extends HTMLElement {
 
 
 		constructor() {
